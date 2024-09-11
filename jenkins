@@ -23,4 +23,15 @@ workspace/
 config.xml
 hudson.model.UpdateCenter.xml
 hudson.plugins.git.GitTool.xml
+identity.key.enc
+jenkins.install.InstallUtil.lastExecVersion
+jenkins.install.UpgradeWizard.state
+jenkins.model.JenkinsLocationConfiguration.xml
+jenkins.security.apitoken.ApiTokenPropertyConfiguration.xml
+jenkins.telemetry.Correlator.xml
+nodeMonitors.xml
+queue.xml
+secret.key
+secret.key.not-so-secret
+queue.xml.bak           
                                        
